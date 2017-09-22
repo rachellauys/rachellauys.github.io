@@ -1,0 +1,31 @@
+.my-photo {
+    min-height: 100vh;
+    background-image: url(girl.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-blend-mode: 50%
+    opacity: 40%;
+}
+.my-header {
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 50px;
+}
+
+.my-title {
+    color: rgb(102, 102, 102);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+.contact {
+    color: #C772BC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.my-hr {
+    width: 40%;
+    border: 5px dashed #FFFFFF;
+    margin-left: 0;
+}
